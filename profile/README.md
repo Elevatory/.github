@@ -7,4 +7,4 @@ Elevatory focuses on the technology platform of SAP AG - especially on the produ
 
 Our expertise spans the ABAP platform, SAP Fiori, SAP HANA, web applications, mobile applications as well as backends and infrastructures. We analyze your processes and jointly develop value-added enterprise applications.
 
-You can find more information on our [Company Website](https://www.elevatory.de "Elevatory - Design and development of clean code enterprise applications with SAP ABAP and Fiori").
+You can find more information about us on our [Company Website](https://www.elevatory.de "Elevatory - Design and development of clean code enterprise applications with SAP ABAP and Fiori").
